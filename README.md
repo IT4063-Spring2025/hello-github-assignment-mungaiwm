@@ -23,23 +23,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned:** I leant ow to clone my project to Git desktop using URL, I leant how to commit my code to reflect updates I made in the assignment on my git account
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with:** I stuggled with my commit because its giving an error that I dont have permission to commit to my git account and I need to creat a fork, sad!
 - .
 
-**I need the instructor to help me with:** (repeat as needed)
+**I need the instructor to help me with:** Fix this error because its also happening on the next week upcoming assignment
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20 ] out of 20.
 
 
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
+**I used the following links, books, and other resources in my work:** Posted demo video in the module
 - .
   
-**I received help from the following people:** (repeat as needed)
+**I received help from the following people:** videos
 - . 
 
 ---
